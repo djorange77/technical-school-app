@@ -1,6 +1,6 @@
 # Technical School App
-Assignment for one of AUT's undergraduate programming paper. Objective is to individually develop a Technical School App in
-Java to determine whether or not a student is certified, their transcript is checked against a
+Assignment for one of AUT's undergraduate programming paper. Objective was to develop an app in
+Java that will determine whether or not a student is certified, based on their transcript that is checked against a
 certification criterion.
 
 ## Assignment Brief
