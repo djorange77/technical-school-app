@@ -4,7 +4,7 @@ Java that will determine whether or not a student is certified, based on their t
 certification criterion.
 
 ## Assignment Brief
-[COMP503 ENSE502 ENSE602 - Assignment 1.pdf](https://github.com/djorange77/technical-school-app/files/7486718/COMP503.ENSE502.ENSE602.-.Assignment.1.pdf)
+[COMP503 ENSE502 ENSE602 Programming 2 - Assignment 1.pdf](https://github.com/djorange77/technical-school-app/files/7487379/COMP503.ENSE502.ENSE602.Programming.2.-.Assignment.1.pdf)
 
 ## Photos of Program Running
 ![DB0 Buttons](https://user-images.githubusercontent.com/80317637/140541384-e1fc5fbc-890e-45e6-a8f5-d3bd72911f7d.png)![DB0 Drop-Down List](https://user-images.githubusercontent.com/80317637/140527872-eecfe4f2-367b-4cf1-9629-9336c2f3ab9c.png)
